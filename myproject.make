@@ -33,9 +33,9 @@ projects[devel] = 1.5
 projects[diff] = 3.3
 
 ;;; Extensions
-projects[ctools] = 1.12
+projects[ctools] = 1.14
 projects[libraries] = 2.3
-projects[entity] = 1.8
+projects[entity] = 1.9
 projects[xautoload] = 5.7
 projects[token] = 1.7
 projects[rules] = 2.x-dev
@@ -89,7 +89,7 @@ projects[mass_contact] = 1.0
 
 projects[mailsystem] = 2.34
 projects[mimemail] = 1.0
-projects[reroute_email] = 1.2
+projects[reroute_email] = 1.3
 
 projects[phpmailer] = 3.0-beta4
 
