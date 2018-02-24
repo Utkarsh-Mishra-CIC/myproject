@@ -14,7 +14,7 @@ DOMAINS="dev.proj.example.org tst.proj.example.org"
 ### Gmail account for notifications.
 ### Make sure to enable less-secure-apps:
 ### https://support.google.com/accounts/answer/6010255?hl=en
-GMAIL_ADDRESS=proj.example.org@gmail.com
+GMAIL_ADDRESS=ashishwhynot@gmail.com
 GMAIL_PASSWD=
 
 ### Admin settings.
